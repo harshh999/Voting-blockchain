@@ -2,6 +2,8 @@
 
 A secure, transparent, and immutable voting platform built on blockchain technology. VoteChain revolutionizes democratic processes by ensuring election integrity while maintaining voter privacy.
 
+website's live at : https://voting-system-using-blockchain.netlify.app/
+
 ## 🗳️ Overview
 
 VoteChain is a comprehensive blockchain voting system that addresses the critical challenges in traditional electoral systems. By leveraging blockchain technology, we provide:
